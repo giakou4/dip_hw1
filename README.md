@@ -105,3 +105,11 @@ p = f(v)
 το ιστόγραμμα. Ως σύμβαση, θεωρείστε ότι κάθε διάστημα που ορίζει το d αντιστοιχίζεται σε φωτεινότητα ίση με το
 μέσον του διαστήματος. Σε κάθε περίπτωση, παρουσιάστε τα αποτελέσματά σας χρησιμοποιώντας την εικόνα εισόδου
 που σας δόθηκε.
+
+## Support
+
+Reach out to me:
+- [giakou4's email](mailto:giakonick98@gmail.com "giakonick98@gmail.com")
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/dip_hw1/LICENSE)
